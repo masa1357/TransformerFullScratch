@@ -1,0 +1,2 @@
+# TransformerFullScratch
+Transformerのアーキテクチャを1から実装し，理解を深める．
